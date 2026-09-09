@@ -1,11 +1,11 @@
 {
     "version": 1,
     "themes": {
-        "eteam-studio-works": {
-            "name": "eteam-studio-works",
+        "eteam-studio-site": {
+            "name": "eteam Studio Works",
             "repo": "https://github.com/hajoemo/eteam-studio-site/tree/main",
-            "zip": "https://github.com/hajoemo/eteam-studio-site/archive/master.zip",
-            "summary": "A dark, editorial one-page portfolio theme with a sticky header, indexed gallery sections, mixed image/video tiles and a built-in lightbox for enlarging media.",
+            "zip": "https://github.com/hajoemo/eteam-studio-site/archive/main.zip",
+            "summary": "A dark, editorial one-page portfolio theme with indexed gallery sections, mixed image/video tiles and a built-in lightbox.",
             "version": "1.0.0",
             "image": "https://raw.githubusercontent.com/hajoemo/eteam-studio-site/main/preview.jpg"
         }
