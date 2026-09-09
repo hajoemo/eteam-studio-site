@@ -3,11 +3,11 @@
     "themes": {
         "eteam-studio-works": {
             "name": "eteam-studio-works",
-            "repo": "https://github.com/hajoemo/eteam-studio-site/tree/master",
+            "repo": "https://github.com/hajoemo/eteam-studio-site/tree/main",
             "zip": "https://github.com/hajoemo/eteam-studio-site/archive/master.zip",
             "summary": "A dark, editorial one-page portfolio theme with a sticky header, indexed gallery sections, mixed image/video tiles and a built-in lightbox for enlarging media.",
             "version": "1.0.0",
-            "image": "https://raw.githubusercontent.com/hajoemo/eteam-studio-site/14712970248ac90b8cdc2bf6abc9ac63658ca230/preview.jpg"
+            "image": "https://raw.githubusercontent.com/hajoemo/eteam-studio-site/main/preview.jpg"
         }
     }
 }
