@@ -1,0 +1,10 @@
+{
+    "name": "eteam-studio-works",
+    "description": "A dark, editorial one-page portfolio theme with a sticky header, indexed gallery sections, mixed image/video tiles and a built-in lightbox for enlarging media.",
+    "version": "1.0.0",
+    "type": "theme",
+    "authorName": "",
+    "authorUrl": "",
+    "coverImageUrl": "img/cover.jpg",
+    "minWonderCmsVersionRequired": "3.0.0"
+}
